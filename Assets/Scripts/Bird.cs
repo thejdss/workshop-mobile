@@ -1,13 +1,17 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
-public class Bird : MonoBehaviour {
-
+public class Bird : MonoBehaviour
+{
     public float flyForce;
-    public Rigidbody componentRigidbody;
+    
     public int score;
-    public Text scoreText;
+
     public GameObject canvas;
+
+    public Text scoreText;
+
+    public Rigidbody componentRigidbody;
 
     void Start()
     {
