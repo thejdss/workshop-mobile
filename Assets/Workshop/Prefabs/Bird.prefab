@@ -382,8 +382,8 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1469467743907514}
-  m_LocalRotation: {x: 0, y: 1, z: -0, w: -0.0000001872535}
-  m_LocalPosition: {x: -1.7, y: 0, z: 0}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4453881955568022}
@@ -391,7 +391,7 @@ Transform:
   - {fileID: 4426893841662864}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 180.00002, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!54 &54418213324934402
 Rigidbody:
   m_ObjectHideFlags: 1
@@ -442,14 +442,21 @@ MonoBehaviour:
   m_GameObject: {fileID: 1469467743907514}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 44c8ad6608c80224d8664fb822319b9e, type: 3}
+  m_Script: {fileID: 11500000, guid: 7ca238d08518f94488cccb6e55d38f50, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   flyForce: 5
-  componentRigidbody: {fileID: 0}
+  endPanel: {fileID: 0}
+  scoreGame: {fileID: 0}
   score: 0
-  scoreText: {fileID: 0}
-  canvas: {fileID: 0}
+  spawnParticle: {fileID: 1069299570702252}
+  flyParticle: {fileID: 1457407873447608, guid: 8c399b8e47e07174687923111bb743b3,
+    type: 2}
+  dieParticle: {fileID: 1004888562802026, guid: fbd831feb2258fc41ac2adb2cdb9186f,
+    type: 2}
+  flySound: {fileID: 0}
+  scoreSound: {fileID: 0}
+  dieSound: {fileID: 0}
 --- !u!137 &137573972711634544
 SkinnedMeshRenderer:
   m_ObjectHideFlags: 1

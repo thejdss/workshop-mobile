@@ -55,7 +55,7 @@ GameObject:
   - component: {fileID: 4176776278957754}
   - component: {fileID: 33343296624212790}
   - component: {fileID: 23521075813959218}
-  - component: {fileID: 54514252710773618}
+  - component: {fileID: 54287720662550128}
   m_Layer: 0
   m_Name: Fence
   m_TagString: Untagged
@@ -376,7 +376,7 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1426622507780428}
   m_Mesh: {fileID: 4300000, guid: 0d8cbc32b6b275546a867fc6659d8d0b, type: 3}
---- !u!54 &54514252710773618
+--- !u!54 &54287720662550128
 Rigidbody:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
