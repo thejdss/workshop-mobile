@@ -5,7 +5,7 @@ Game developed during the workshop of development of mobile games with augmented
 If you have a problem with Vuforia, try removing it from the project by going to:
 `Build Settings > Project Settings > XR Settings`
 
-Soon after you remove, add the Vuforia again and put the [key](key.txt) and the [Vuforia database package](flappy-bird-database.unitypackage) image in the project. To use augmented reality you will need this [image](Images/card-workshop.png), we use that image in the workshop.
+Soon after you remove, add the Vuforia again and put the [key](key.txt) and the [Vuforia database package](clone-bird-database.unitypackage) image in the project. To use augmented reality you will need this [image](Images/card-workshop.png), we use that image in the workshop.
 
 Or you can add your own database picture and your own key, remember to register at the Vuforia Developer website to get your own key and upload your desired image.
 
