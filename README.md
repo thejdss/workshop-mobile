@@ -11,7 +11,9 @@ Or you can add your own database picture and your own key, remember to register 
 
 If you have problems completing the build, it might be the android SDK packages, so you should download the SDK Android Jelly Bean 4.2 in the Android Studio SDK Manager.
 
-Final version of the Android game after a workshop: [Flappy Bird](flappy-bird.apk)
+## Build
+
+### [Release](https://github.com/thejdss/workshop-mobile/releases) [![GitHub release](https://img.shields.io/github/release/thejdss/workshop-mobile/all.svg)](https://github.com/thejdss/workshop-mobile/releases)
 
 ## Team members
 [Jaelcio Dutra](https://www.linkedin.com/in/jaelcio-dutra) and [Marcelo Chaves](https://www.linkedin.com/in/marcelochaves95)
