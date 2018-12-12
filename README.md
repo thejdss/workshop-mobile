@@ -7,7 +7,7 @@ If you have a problem with Vulforia, try removing it from the project by going t
 
 Soon after you remove, add the Vulforia again and put the key and the image in the project, you can find the key and the package of the image in this link:
 [Key](key.txt) and
-[Vulforia Image](Images/card-workshop.png)
+[Vulforia Database Package](https://drive.google.com/file/d/1EchVJc3Uyfbeq5n3MN8bwwxts01JsGEr/view?usp=sharing)
 
 Or you can add your own picture and your own key.
 
